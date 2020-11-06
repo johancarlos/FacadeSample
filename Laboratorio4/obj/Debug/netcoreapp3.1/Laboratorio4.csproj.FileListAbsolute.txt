@@ -1,0 +1,12 @@
+/Users/kairos/Projects/Laboratorio4/Laboratorio4/bin/Debug/netcoreapp3.1/Laboratorio4.deps.json
+/Users/kairos/Projects/Laboratorio4/Laboratorio4/bin/Debug/netcoreapp3.1/Laboratorio4.runtimeconfig.json
+/Users/kairos/Projects/Laboratorio4/Laboratorio4/bin/Debug/netcoreapp3.1/Laboratorio4.runtimeconfig.dev.json
+/Users/kairos/Projects/Laboratorio4/Laboratorio4/bin/Debug/netcoreapp3.1/Laboratorio4.dll
+/Users/kairos/Projects/Laboratorio4/Laboratorio4/bin/Debug/netcoreapp3.1/Laboratorio4.pdb
+/Users/kairos/Projects/Laboratorio4/Laboratorio4/obj/Debug/netcoreapp3.1/Laboratorio4.csprojAssemblyReference.cache
+/Users/kairos/Projects/Laboratorio4/Laboratorio4/obj/Debug/netcoreapp3.1/Laboratorio4.AssemblyInfoInputs.cache
+/Users/kairos/Projects/Laboratorio4/Laboratorio4/obj/Debug/netcoreapp3.1/Laboratorio4.AssemblyInfo.cs
+/Users/kairos/Projects/Laboratorio4/Laboratorio4/obj/Debug/netcoreapp3.1/Laboratorio4.csproj.CoreCompileInputs.cache
+/Users/kairos/Projects/Laboratorio4/Laboratorio4/obj/Debug/netcoreapp3.1/Laboratorio4.dll
+/Users/kairos/Projects/Laboratorio4/Laboratorio4/obj/Debug/netcoreapp3.1/Laboratorio4.pdb
+/Users/kairos/Projects/Laboratorio4/Laboratorio4/obj/Debug/netcoreapp3.1/Laboratorio4.genruntimeconfig.cache
